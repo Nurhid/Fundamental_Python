@@ -47,3 +47,4 @@ print(type(anak)) # kurung siku = [] itu tipe data list
 print(type(jumlah_anak_nurul)) # int / integer tipe data yg mengandung nilai bil bulat
 print(type(nilai_nurul)) # float / tipe data decimal
 print(type(nurul_ingin_cepat)) # tipe data bool / bernilai 2 = True or False
+
